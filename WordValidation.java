@@ -144,8 +144,8 @@ public class WordValidation implements SpellingOperations{
         }
 
         //Insertion
-        if(!dictionary.nearMisses("cattlle").contains("cattle")) {
-            System.out.println(dictionary.nearMisses("cattlle"));
+        if(!dictionary.nearMisses("cattlee").contains("cattle")) {
+            System.out.println(dictionary.nearMisses("cattlee"));
             throw new AssertionError("Failed insertion test");
         }
         
