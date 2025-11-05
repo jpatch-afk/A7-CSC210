@@ -11,27 +11,27 @@ in your work, please indicate the status of each item
 
 Assignment Points:
 
-_____ 1 pt: Loads and stores dictionary
+_YES____ 1 pt: Loads and stores dictionary
 
-_____ 1 pt: Implements containsWord method as specified
+_YES____ 1 pt: Implements containsWord method as specified
 
-_____ 5 pts: Implements nearMisses method as specified, composed of:
+_YES____ 5 pts: Implements nearMisses method as specified, composed of:
 
-      _____ 1 pt: Suggests correct deletions
+      _YES____ 1 pt: Suggests correct deletions
 
-      _____ 1 pt: Suggests correct insertions
+      _YES____ 1 pt: Suggests correct insertions
 
-      _____ 1 pt: Suggests correct substitutions
+      __YES___ 1 pt: Suggests correct substitutions
 
-      _____ 1 pt: Suggests correct transpositions
+      _YES____ 1 pt: Suggests correct transpositions
 
-      _____ 1 pt: Suggests correct split words
+      _YES____ 1 pt: Suggests correct split words
 
-_____ 1 pt: Main includes multiple tests for each point listed above
+_YES____ 1 pt: Main includes multiple tests for each point listed above
 
-_____ 1 pt: SpellChecker runs in command line mode as described
+_YES____ 1 pt: SpellChecker runs in command line mode as described
 
-_____ 1 pt: SpellChecker runs in file checking mode as described
+_YES____ 1 pt: SpellChecker runs in file checking mode as described
 
 (Note that in addition to the tests that you write, we will perform automated testing of our own on your submitted code.)
 
@@ -39,22 +39,22 @@ _____ 1 pt: SpellChecker runs in file checking mode as described
 
 ## General Items:
 
-_____ 4 pts: Programs compile without errors or warnings
+_YES____ 4 pts: Programs compile without errors or warnings
 
-_____ 2 pts: Executes fully & consistently without crashing (exception/freeze)
+_YES____ 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
-_____ 2 pt: Complies with style guidelines (missing items 1 pt each):
+__YES___ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
-      _____ Classes & class members all have Javadoc header comments
+      _YES____ Classes & class members all have Javadoc header comments
 
-      _____ Clear and consistent indentation of bracketed sections
+      _YES____ Clear and consistent indentation of bracketed sections
 
-      _____ Adheres to Java conventions on naming & capitalization
+      _YES____ Adheres to Java conventions on naming & capitalization
 
-      _____ Methods & variables all have clear and accurate names
+      _YES____ Methods & variables all have clear and accurate names
 
-      _____ Methods avoid confusing side effects
+      _YES____ Methods avoid confusing side effects
 
-_____ 1 pt: All required files included with submission (including completed checklist file)
+__YES___ 1 pt: All required files included with submission (including completed checklist file)
 
-_____ 1 pt: readme.md contains your reflection on the assignment
+_YES____ 1 pt: readme.md contains your reflection on the assignment
