@@ -8,7 +8,6 @@ public class SpellChecker{
         WordValidation dict = new WordValidation();
         dict.createSet("words.txt");
 
-
         //Reading file
         if(args.length == 0){
 
